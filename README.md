@@ -19,3 +19,7 @@ Battery | Non-removable Li-Po 5020 mAh
 Display | 1080 x 2400 pixels, 6.70 inches (~395 ppi pixel density)
 Camera  | Main (108MP), Wide (8MP), Macro (5MP), Depth (2MP), LED flash
 SD card slot | Dedicated microSDXC slot
+
+# Device Picture
+
+![0A6BDE83-5ADF-DC0E-34E8-68A8E71BCCB4 (1)](https://user-images.githubusercontent.com/52545734/120107342-ed8cb000-c18a-11eb-92b7-555edfaa2778.png)
